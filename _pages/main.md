@@ -21,7 +21,11 @@ This is a test page.
 Cool!
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Hello World!
 
-This is image of Kindai\
+This is image of G-KULeD\
 \
-![](https://idp.kindai.ac.jp/cloudlink/module.php/cloudlinktheme/kindai/resources/logo/logo.png)
+![](https://gakubu.kuled.kindai.ac.jp/logoview.aspx)
 ---
+
+The logo of School Swing\
+\
+<img height="30" src="https://kindai.swing.schoo.jp/_nuxt/img/logo.09067d2.svg" title="school swing" width="20"/>
