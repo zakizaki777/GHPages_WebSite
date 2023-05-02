@@ -28,4 +28,4 @@ This is image of G-KULeD\
 
 The logo of School Swing\
 \
-<img height="30" src="https://kindai.swing.schoo.jp/_nuxt/img/logo.09067d2.svg" title="school swing" width="20"/>
+<img height="300" src="https://kindai.swing.schoo.jp/_nuxt/img/logo.09067d2.svg" title="school swing" width="1000"/>
