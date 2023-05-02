@@ -46,4 +46,6 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
+$$ x^2 \times n^4 $$
+
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
