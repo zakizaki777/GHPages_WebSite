@@ -21,6 +21,7 @@ This is a test page.
 Cool!
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Hello World!
 
-This is image of Kindai
+This is image of Kindai\
+\
 ![](https://idp.kindai.ac.jp/cloudlink/module.php/cloudlinktheme/kindai/resources/logo/logo.png)
 ---
